@@ -1,0 +1,20 @@
+h1{
+	color: red;
+	border: 10px;
+	font-style: all;
+	font-size: 30px;
+}
+
+.hit
+{
+	color:red;
+	background-color: gray;
+	font-size: 50px;
+}
+#hem
+{
+	color:orange;
+	font-size: 30px;
+	background-color: blue;
+	
+}
